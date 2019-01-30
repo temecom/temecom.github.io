@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title: Initial Post - A single seagull in a sea of seagulls!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+There are a a lot of blogs out there... squawks from pretty well every self-proclainmed expert in every subject from gold fish to Mars missions. So here is one from this self-proclaimed expert on various the subjects that I have dabbled, delved, dived and wallowed in over the past 50 years of my career in electronics and software technologies. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Ok, ok I can hear it now... 'not another grey-hair dinosaur with stories about the early days of computing when 64k of memory was like a Klondike gold seam and every micro-processor binary op-code was commited to memory'. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I'll try to keep that to a minimum and focus on more relevent information like JavaScript frameworks, Java/SpringBoot micro-services, Internet of Things (IOT), Behavior Driven Development (BDD) and general software achitecture philosophy.
+
+The accompanying github site [temecom](https://github.com/temecom) includes samples and projects associated with my independent exploration on this 'Planet of the Geeks'. 
+
+Enjoy, comment (politely please) and contribute (always welcome). 
+
+Chris
+
