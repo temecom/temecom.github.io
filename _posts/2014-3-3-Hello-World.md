@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial Post - A single seagull in a sea of seagulls!
+title: A single seagull in a sea of seagulls!
 ---
 
 There are a a lot of blogs out there... squawks from pretty well every self-proclainmed expert in every subject from gold fish to Mars missions, so here is one from this self-proclaimed expert on various subjects that I have dabbled, delved, dived and wallowed in over the past 50 years of my career in software and electronics technologies. 
