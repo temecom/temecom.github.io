@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Chris is a software architect with decades of experience in the tech world designing and implementing software and hardware systems for diverse industries from financial, medical, aerospace and industrial to remote rovers, games and talking toys. This site is a forum for general and specific discussion of tech projects and the architectural approach to software design. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[csmith@temecom.net](mailto:csmith@temecom.net)
