@@ -6,9 +6,7 @@ permalink: /about/
 
 Chris is a software architect with decades of experience in the tech world designing and implementing software and hardware systems for diverse industries from financial, medical, aerospace and industrial to remote rovers, games and talking toys. This site is a forum for general and specific discussion of tech projects and the architectural approach to software design. 
 
-### More Information
-
-### Perhaps Interesting projects
+### Interesting projects
 #### Queue Management System - County of San Diego/State of California
   - A check-in kiosk for county customers when visiting county service facilities
   - Technologies:
