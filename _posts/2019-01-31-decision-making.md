@@ -5,15 +5,15 @@ Decision making is tough sometimes. You have lots of opinions from many sources 
 
 Well I am here to tell you that the only really wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
 
-A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility. 
+A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common and not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility and the decision is probably not going to impact the project significantly. 
 
-Long drawn-out arguments over which is the right one to use will impact productivity much more than any productivity gain or loss associated with a particular choice.
+Long drawn-out arguments over which is the right one to use will however impact overall productivity much more than any productivity gain or loss associated with a particular choice.
 
 I have seen teams locked in IDE wars to the point of total breakdown where management was forced to let a member go because of fiercely held personal preferences. 
 
 Clearly not a preferred outcome for management, the team or the team member. 
 
-You could just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntaled. Again not a sound strategy to build a smoothly functioning team. 
+You could just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntled. Again not a sound strategy for building a smoothly functioning team. 
 
 In cases like this a team vote is often the best way to resolve an issue. Here are the steps: 
 
@@ -26,12 +26,11 @@ In cases like this a team vote is often the best way to resolve an issue. Here a
   - Record the votes along with the arguments presented
     - This is important as a reference later when management or team members ask the inevitable "Why did we make that decision?"
 
-In other cases where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to set the direction. 
-Often team members are looking for direction and are more interested in consistency than the particular rational for a given decision. Furthermore including the team in all of the details can bog down the decision making progress to a point of stasis. 
+In other cases where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team. Often team members are looking for direction and are more interested in consistency than the particular rational for a given decision. Furthermore including the whole team in all of the details can be distracting and may bog down the decision making proccess to a point of stasis. 
 
 Examples of this are the folder structure of the project or the class inheritance heirarchy. 
 
-As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone so get used to it 
+As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone, so embrase it as a necessary skill. 
 
 ### Present and Solicit Feedback Strategy
  - Prepare your presentation
@@ -48,12 +47,12 @@ As an experienced Architect you are probably used to preparing and presenting co
        - Benfits & Risks
      - Recommendations
        - My recommendation is...
- - Present your proposal in a formal meeting with an agenda to the team and management if appropriate
+ - Present your proposal in a formal (meeting with an agenda to the team and management if appropriate
    - Presentation
    - Discussion
    - Decision
 
-Other smaller decisions are made on a daily basis by individuals on the team and they just need some concitent guiding principles. 
+Other smaller decisions are made on a daily basis by individuals on the team and they just need some consitent guiding principles. 
 
 Examples of this include Coding Style, Naming Conventions, Source Code Commit Comments. 
 
@@ -78,3 +77,4 @@ There are well established norms in most fields that are published and accepted 
    - [Use Smart Commits (Jira)](https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html)
  - Document any exceptions or speacial guidelines for your team
  
+Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn the job done' without the distraction of long winded arguments about personal preferences or past methods. Save those for apre\`- work at the pub :) ... Cheers
