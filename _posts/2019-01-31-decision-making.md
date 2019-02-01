@@ -50,7 +50,8 @@ As an experienced Architect you are probably used to preparing and presenting co
      - Recommendations
        - My recommendation is...
          - They are looking for your recommendation make it clear
- - Present your proposal to the team and stakeholders in a brief (1hr or less) meeting with a formal agenda 
+   - The process of preparing the presentation is often a good way to organize the foundations for a decision and to help you to make a sound one
+ - Present your proposal to the team and stakeholders in a brief (1hr or less) meeting with a formal agenda: 
    - Presentation
      - Include links to your document so that team members are prepared and can reference it later
    - Questions and Discussion
