@@ -15,9 +15,11 @@ Clearly not a preferred outcome for management, the team or the team member.
 
 You could just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntled. Again not a sound strategy for building a smoothly functioning team. 
 
-In cases like this a team vote is often the best way to resolve an issue. Here are the steps: 
+Presented here are four strategies that you can use in diferent scenarios for making decisions as a team and a team leader. 
 
 ### Team Vote Strategy
+In cases of personal preference like outlined above a team vote is often the best way to resolve an issue. Here are the steps: 
+
 - Call a brief (<1hr) meeting to: 'Make a team decision on xyz'
   - Ask team members to prepare their arguments ahead of time in written form on your 'Decisions' Wiki page (you have one don't you?)
   - Provide a time limited session (5 minutes perhaps) for each team member to present their arguments in concise fashion
@@ -26,13 +28,13 @@ In cases like this a team vote is often the best way to resolve an issue. Here a
   - Record the votes along with the arguments presented
     - This is important as a reference later when management or team members ask the inevitable "Why did we make that decision?"
 
-In other cases where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team. Often team members are looking for direction and are more interested in consistency than the particular rational for a given decision. Furthermore including the whole team in all of the details can be distracting and may bog down the decision making proccess to a point of stasis. 
+### Decide, Present Rational and Solicit Feedback Strategy
+In a situation where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team effectively. Often team members are looking for direction and are more interested in consistency than participating in the actual decision making process. Furthermore including the whole team in all of the details can be distracting and may bog down the proccess to a point of stasis. 
 
-Examples of this are the folder structure of the project or the class inheritance heirarchy. 
+Examples of this are the folder structure of the project or a class inheritance heirarchy. 
 
-As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone, so embrase it as a necessary skill. 
+As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone, so embrase it as a necessary prefessional skill. 
 
-### Present and Solicit Feedback Strategy
  - Prepare your presentation
    - Use Power Point or equivelent presentation tool so that you can walk the team through your decision making process
    - Break the presentation into sections of 1 to 3(max) pages eaach:
@@ -42,9 +44,9 @@ As an experienced Architect you are probably used to preparing and presenting co
        - Gaps in the current solution
      - The Proposed Solution(s)
        - How does it address the problem
-       - What is the scope (effort, time $ etc) of the implementation       
-       - Side by side comparison
-       - Benfits & Risks
+       - What is the scope (effort, time $ etc) of the implementation 
+       - Benfits & Risks      
+       - Side by side comparison if more than one
      - Recommendations
        - My recommendation is...
  - Present your proposal to the team and management, if appropriate, in a brief (1hr or less) formal meeting with an agenda 
@@ -56,19 +58,18 @@ As an experienced Architect you are probably used to preparing and presenting co
       - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensous and management blessing
       - If not or there are unresolved questions try to get partial concensous and defer any remaining items to a short follow up meeting
    - Documentation
-     - Important!!! 
-
+     - Important!!!
+     
+## Documented External Authority Strategy
 Other smaller decisions are often made on a daily basis by individuals on the team and they just need some consistent guiding principles. 
 
 Examples of this include coding style, naming conventions or source code commit comments. 
 
-It is important to establish and document these pricipals in the form of 'Development Guidlines' readily accesible on you team wiki. 
+It is important to establish and document these pricipals in the form of 'Development Guidelines' nad to make them readily accesible on you team wiki. 
 
 Being especially lazy and willing to reap the benefits of others' work I usually defer to an 'External Authority' on most guildeline policies. 
 
-There are well established norms in most fields that are published and accepted by the industry. The important thing here is to decide on an authority up front and consistently refer to that authority to quickly resolve any opinion based arguments. 
-
-## Documented External Authority Strategy
+There are well established norms in most areas that are published and accepted by the industry. The important thing here is to decide on an authority up front and consistently refer to that authority to quickly resolve any opinion based arguments. 
 
  - Create a 'Developers' Guideline' document on the team wiki
    - List the areas of concern
@@ -84,4 +85,26 @@ There are well established norms in most fields that are published and accepted 
    - [Use Smart Commits - Jira](https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html)
  - Document any exceptions or special guidelines for your team
  
-Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded arguments about personal preferences or past methods. Save those for apre\`- work get togethers at the pub :) ... Cheers
+ 
+## Try and See Strategy
+Sometimes you don't have enough knowlege or relevent examples to act as the basis for making a decision. In these cases a try and see strategy can quickly expose the strengths and weaknesses of a single or competing technologies or architectural approaches. This is often refered to as a 'Research Spike' in the Scrum Process. The important thing to manage in this strategy is the time alloted for the the 'try' period so that it does not become a lengthy 'College Project'. The steps to implementing this strategy are: 
+
+ - Create the Research Spike in your tracking system with: 
+   - Context
+     - The problem summary
+     - Time limit (or story points) alloted for the spike
+   - Goals
+     - Specific goals of the spike with:
+       - The proposed solution or areas of investigation
+       - Tests relevent to proving the solution
+       - Documentation and presentation of the results to team
+   - Acceptance Criteria
+     - The criteria that will be used to make a decision    
+ - Assign team members to investigate and prepare a report and presetation
+ - Scheduled a decision meeting at the earliest feasable time
+
+Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded arguments about personal preferences or past methods. 
+
+Save those for apre\`- work get togethers at the pub :) 
+
+... Cheers
