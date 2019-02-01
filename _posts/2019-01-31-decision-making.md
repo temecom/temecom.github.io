@@ -28,7 +28,7 @@ In cases of personal preferences like one outlined above a team vote is often th
   - Record the votes along with the arguments presented
     - This is important as a reference later when management or team members ask the inevitable "Why did we make that decision?"
 
-### Decide, Present Rational and Solicit Feedback Strategy
+### Decide, Present Rationale and Solicit Feedback Strategy
 In a situation where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team effectively. Often team members are looking for direction and are more interested in consistency than participating in the actual decision making process. Furthermore including the whole team in all of the details can be distracting and may bog down the proccess to a point of stasis. 
 
 Examples of this are the folder structure of the project or a class inheritance heirarchy. 
