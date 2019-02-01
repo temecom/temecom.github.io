@@ -71,7 +71,7 @@ It is important to establish and document these pricipals in the form of 'Develo
 
 Being especially lazy and willing to reap the benefits of others' work I usually defer to an 'External Authority' on most guildeline policies. 
 
-There are well established norms in most areas that are published and accepted by the industry. The important thing here is to decide on an authority up front and consistently refer to that authority to quickly resolve any opinion based arguments. 
+There are well established norms in most areas that are published and accepted by the industry. No need to spend a lot of time on establishing guidelines that are unique to your team... you are not the first team to encounter these issue :) The important thing here is to decide on an authority up front and consistently refer to that authority to quickly resolve any opinion based arguments. 
 
  - Create a 'Developers' Guideline' document on the team wiki
    - List the areas of concern
@@ -108,7 +108,7 @@ Sometimes you don't have enough knowlege or relevent examples to act as the basi
  - Scheduled a decision meeting at the earliest feasible time
 
 #Conclusion
-Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded discussion about personal preferences or past methods. 
+Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'git nr done' without the distraction of long winded discussion about personal preferences or past methods. 
 
 Save those for apre\`- work get togethers at the pub :) 
 
