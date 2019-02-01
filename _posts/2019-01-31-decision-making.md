@@ -47,14 +47,20 @@ As an experienced Architect you are probably used to preparing and presenting co
        - Benfits & Risks
      - Recommendations
        - My recommendation is...
- - Present your proposal in a formal (meeting with an agenda to the team and management if appropriate
+ - Present your proposal to the team and management, if appropriate, in a brief (1hr or less) formal meeting with an agenda 
    - Presentation
-   - Discussion
+     - Include links to your document so that team members are prepared and can reference it later
+   - Questions and Discussion
+     - Ask the audience to kindly hold their questions for this dedicated agenda item
    - Decision
+      - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensous and management blessing
+      - If not or there are unresolved questions try to get partial concensous and defer any remaining items to a short follow up meeting
+   - Documentation
+     - Important!!! 
 
-Other smaller decisions are made on a daily basis by individuals on the team and they just need some consitent guiding principles. 
+Other smaller decisions are often made on a daily basis by individuals on the team and they just need some consistent guiding principles. 
 
-Examples of this include Coding Style, Naming Conventions, Source Code Commit Comments. 
+Examples of this include coding style, naming conventions or source code commit comments. 
 
 It is important to establish and document these pricipals in the form of 'Development Guidlines' readily accesible on you team wiki. 
 
@@ -73,8 +79,9 @@ There are well established norms in most fields that are published and accepted 
  - Typical authorities are: 
    - [Code Conventions for the JavaScript Programming Language](https://www.crockford.com/javascript/code.html)
    - [Code Conventions for the Java Programming Language](https://www.oracle.com/technetwork/java/javase/documentation/codeconventions-139411.html)
-   - [NIEM](National Information Exchange Model](https://www.niem.gov/)
-   - [Use Smart Commits (Jira)](https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html)
- - Document any exceptions or speacial guidelines for your team
+   - [NIEM-National Information Exchange Model](https://www.niem.gov/)
+     - Naming conventions and modeling guidance
+   - [Use Smart Commits - Jira](https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html)
+ - Document any exceptions or special guidelines for your team
  
-Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn the job done' without the distraction of long winded arguments about personal preferences or past methods. Save those for apre\`- work at the pub :) ... Cheers
+Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded arguments about personal preferences or past methods. Save those for apre\`- work get togethers at the pub :) ... Cheers
