@@ -33,7 +33,7 @@ In a situation where management has brought you in to provide guidance and coord
 
 Examples of this are the folder structure of the project or a class inheritance heirarchy. 
 
-As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone, so embrase it as a necessary prefessional skill. 
+As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone, so embrace it as a necessary tool in your prefessional toolbox. 
 
  - Prepare your presentation
    - Use Power Point or equivelent presentation tool so that you can walk the team through your decision making process
@@ -45,27 +45,27 @@ As an experienced Architect you are probably used to preparing and presenting co
      - The Proposed Solution(s)
        - How does it address the problem
        - What is the scope (effort, time $ etc) of the implementation 
-       - Benfits & Risks      
-       - Side by side comparison if more than one
+       - Benefits & Risks      
+       - Side by side comparison if more than one was considered
      - Recommendations
        - My recommendation is...
- - Present your proposal to the team and management, if appropriate, in a brief (1hr or less) formal meeting with an agenda 
+ - Present your proposal to the team and stakeholders in a brief (1hr or less) meeting with a formal agenda 
    - Presentation
      - Include links to your document so that team members are prepared and can reference it later
    - Questions and Discussion
      - Ask the audience to kindly hold their questions for this dedicated agenda item
    - Decision
-      - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensous and management blessing
+      - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensus and management blessing
       - If not or there are unresolved questions try to get partial concensous and defer any remaining items to a short follow up meeting
-   - Documentation
+   - Documentation for later reference
      - Important!!!
      
-## Documented External Authority Strategy
+## External Authority Strategy
 Other smaller decisions are often made on a daily basis by individuals on the team and they just need some consistent guiding principles. 
 
 Examples of this include coding style, naming conventions or source code commit comments. 
 
-It is important to establish and document these pricipals in the form of 'Development Guidelines' nad to make them readily accesible on you team wiki. 
+It is important to establish and document these pricipals in the form of 'Development Guidelines' and to make them readily available on you team wiki. 
 
 Being especially lazy and willing to reap the benefits of others' work I usually defer to an 'External Authority' on most guildeline policies. 
 
@@ -87,7 +87,7 @@ There are well established norms in most areas that are published and accepted b
  
  
 ## Try and See Strategy
-Sometimes you don't have enough knowlege or relevent examples to act as the basis for making a decision. In these cases a try and see strategy can quickly expose the strengths and weaknesses of a single or competing technologies or architectural approaches. This is often refered to as a 'Research Spike' in the Scrum Process. The important thing to manage in this strategy is the time alloted for the the 'try' period so that it does not become a lengthy 'College Project'. The steps to implementing this strategy are: 
+Sometimes you don't have enough knowlege or relevent examples to act as the basis for making a decision. In these cases a try and see strategy can quickly expose the strengths and weaknesses of a single or competing technologies or architectural approaches. This is often refered to as a 'Research Spike' in the Scrum world. The important thing to manage in this strategy is the time alloted for the the 'try' period so that it does not become a lengthy 'College Project'. The steps in implementing this strategy are: 
 
  - Create the Research Spike in your tracking system with: 
    - Context
