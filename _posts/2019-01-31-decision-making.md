@@ -1,7 +1,7 @@
 # Decisions, Decisions
 ## The Art of Decision Making in Software Architectural Design
 
-Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like myself) on the internet. You might ask "How do I filter all of that noise down to something that I can use make the correct decision or at least avoid making the wrong decision?".
+Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like myself) on the internet. You might ask "How do I filter all of that noise down to something that we can use make the correct decision or at least avoid making the wrong decision?".
 
 Well I am here to tell you that the only truly wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
 
