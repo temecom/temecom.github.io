@@ -104,7 +104,7 @@ Sometimes you don't have enough knowlege or relevent examples to act as the basi
      - The criteria that will be used to make a decision
      - The decision is documented
        - Important!!!
- - Assign team members to investigate and prepare a report and presetation
+ - Assign team members to investigate, prepare a report and present it to the team
  - Scheduled a decision meeting at the earliest feasible time
 
 #Conclusion
