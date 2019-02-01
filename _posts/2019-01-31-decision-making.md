@@ -78,7 +78,7 @@ There are well established norms in most areas that are published and accepted b
      - Coding Style
      - Naming Conventions
      - Commit Comments
- - In each section document the the exteral authority to be used with a web link. 
+ - In each section document the the external authority to be used with a (valid) web link. 
  - Typical authorities are: 
    - [Code Conventions for the JavaScript Programming Language](https://www.crockford.com/javascript/code.html)
    - [Code Conventions for the Java Programming Language](https://www.oracle.com/technetwork/java/javase/documentation/codeconventions-139411.html)
