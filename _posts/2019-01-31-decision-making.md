@@ -1,21 +1,21 @@
 # Decisions, Decisions
 ## The Art of Decision Making in Software Architectural Design
 
-Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like me) on the internet. You might ask "How do I filter all of that noise down to something that I can use make the correct decision or at least avoid making the wrong decision?".
+Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like myself) on the internet. You might ask "How do I filter all of that noise down to something that I can use make the correct decision or at least avoid making the wrong decision?".
 
 Well I am here to tell you that the only truly wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
 
 A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common and not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility and the decision is probably not going to impact the project significantly. 
 
-Long drawn-out arguments over which is the right one to use will however impact overall productivity much more than any productivity gain or loss associated with a particular choice.
+Long drawn-out arguments over which is the right one to use will, however, impact overall productivity much more than any productivity gain or loss associated with a particular choice.
 
 I have seen teams locked in IDE wars to the point of total breakdown where management was forced to let a member go because of fiercely held personal preferences. 
 
-Clearly not a preferred outcome for management, the team or the team member. 
+Clearly not a desired outcome for management, the team or the team member. 
 
-You could just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntled. Again not a sound strategy for building a smoothly functioning team. 
+You could also just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntled. Again not a sound strategy for building a smoothly functioning team. 
 
-Presented here are four strategies that you can use in diferent scenarios for making decisions as a team and a team leader. 
+Presented here are four strategies that you can use in different scenarios for making decisions as a team and a team leader. 
 
 ### Team Vote Strategy
 In cases of personal preferences like one outlined above a team vote is often the best way to resolve an issue. Here are the steps to quickly arrive at a team decision: 
@@ -29,7 +29,7 @@ In cases of personal preferences like one outlined above a team vote is often th
     - This is important as a reference later when management or team members ask the inevitable "Why did we make that decision?"
 
 ### Decide, Present Rationale and Solicit Feedback Strategy
-In a situation where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team effectively. Often team members are looking for direction and are more interested in consistency than participating in the actual decision making process. Furthermore including the whole team in all of the details can be distracting and may bog down the proccess to a point of stasis. 
+In a situation where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to make the decision and communicate it to the team effectively. Often team members are looking for direction and are more interested in consistency than in participating in the actual decision making process. Furthermore including the whole team in all of the details can be distracting and may bog down the proccess to a point of stasis. 
 
 Examples of this are the folder structure of the project or a class inheritance heirarchy. 
 
@@ -37,7 +37,7 @@ As an experienced Architect you are probably used to preparing and presenting co
 
  - Prepare your presentation
    - Use Power Point or equivelent presentation tool so that you can walk the team through your decision making process
-   - Break the presentation into sections of 1 to 3(max) pages eaach:
+   - Break the presentation into sections of 1 to 3(max) pages each:
      - The Problem (or Requirement)
        - What are we trying to solve
        - Past attempts at a solution
@@ -49,14 +49,15 @@ As an experienced Architect you are probably used to preparing and presenting co
        - Side by side comparison if more than one was considered
      - Recommendations
        - My recommendation is...
+         - They are looking for your recommendation make it clear
  - Present your proposal to the team and stakeholders in a brief (1hr or less) meeting with a formal agenda 
    - Presentation
      - Include links to your document so that team members are prepared and can reference it later
    - Questions and Discussion
-     - Ask the audience to kindly hold their questions for this dedicated agenda item
+     - Ask the audience to kindly hold their questions for this dedicated period
    - Decision
-      - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensus and management blessing
-      - If not or there are unresolved questions try to get partial concensous and defer any remaining items to a short follow up meeting
+      - If you have presented a strong, substantiated argument and there are no major objections the meeting should result in team concensus and stakeholder blessing
+      - If not or there are unresolved questions try to get partial concensus and defer any remaining items to a short follow up meeting
    - Documentation for later reference
      - Important!!!
      
@@ -99,11 +100,14 @@ Sometimes you don't have enough knowlege or relevent examples to act as the basi
        - Tests relevent to proving the solution
        - Documentation and presentation of the results to team
    - Acceptance Criteria
-     - The criteria that will be used to make a decision    
+     - The criteria that will be used to make a decision
+     - The decision is documented
+       - Important!!!
  - Assign team members to investigate and prepare a report and presetation
- - Scheduled a decision meeting at the earliest feasable time
+ - Scheduled a decision meeting at the earliest feasible time
 
-Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded arguments about personal preferences or past methods. 
+#Conclusion
+Establishing and documenting a decision making process is an important step in aligning and focusing your team on the common goal of 'gitn r done' without the distraction of long winded discussion about personal preferences or past methods. 
 
 Save those for apre\`- work get togethers at the pub :) 
 
