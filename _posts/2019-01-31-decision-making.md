@@ -1,0 +1,80 @@
+# Decisions, Decisions
+## The Art of Decision Making in Software Architectural Design
+
+Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts on the internet (like me). You might ask "How do I filter all of that noise down so that I can make the correct decision or at least avoid the wrong decision?".
+
+Well I am here to tell you that the only really wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
+
+A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility. 
+
+Long drawn-out arguments over which is the right one to use will impact productivity much more than any productivity gain or loss associated with a particular choice.
+
+I have seen teams locked in IDE wars to the point of total breakdown where management was forced to let a member go because of fiercely held personal preferences. 
+
+Clearly not a preferred outcome for management, the team or the team member. 
+
+You could just dictate the choice of IDE and move on, leaving a part of the team delighted and the other team members disgruntaled. Again not a sound strategy to build a smoothly functioning team. 
+
+In cases like this a team vote is often the best way to resolve an issue. Here are the steps: 
+
+### Team Vote Strategy
+- Call a brief (<1hr) meeting to: 'Make a team decision on xyz'
+  - Ask team members to prepare their arguments ahead of time in written form on your 'Decisions' Wiki page (you have one don't you?)
+  - Provide a time limited session (5 minutes perhaps) for each team member to present their arguments in concise fashion
+  - Call for a vote via show of hands on each choice
+    - In the case of a tie vote use an external source to break the tie such as 'The most popular' on a reputable rating site.
+  - Record the votes along with the arguments presented
+    - This is important as a reference later when management or team members ask the inevitable "Why did we make that decision?"
+
+In other cases where management has brought you in to provide guidance and coordinate the efforts of a team you are the one who has to set the direction. 
+Often team members are looking for direction and are more interested in consistency than the particular rational for a given decision. Furthermore including the team in all of the details can bog down the decision making progress to a point of stasis. 
+
+Examples of this are the folder structure of the project or the class inheritance heirarchy. 
+
+As an experienced Architect you are probably used to preparing and presenting complex solutions and the rationale for their adoption. As a new Architect this is a skill that you will need to aquire and hone so get used to it 
+
+### Present and Solicit Feedback Strategy
+ - Prepare your presentation
+   - Use Power Point or equivelent presentation tool so that you can walk the team through your decision making process
+   - Break the presentation into sections of 1 to 3(max) pages eaach:
+     - The Problem (or Requirement)
+       - What are we trying to solve
+       - Past attempts at a solution
+       - Gaps in the current solution
+     - The Proposed Solution(s)
+       - How does it address the problem
+       - What is the scope (effort, time $ etc) of the implementation       
+       - Side by side comparison
+       - Benfits & Risks
+     - Recommendations
+       - My recommendation is...
+ - Present your proposal in a formal meeting with an agenda to the team and management if appropriate
+   - Presentation
+   - Discussion
+   - Decision
+
+Other smaller decisions are made on a daily basis by individuals on the team and they just need some concitent guiding principles. 
+
+Examples of this include Coding Style, Naming Conventions, Source Code Commit Comments. 
+
+It is important to establish and document these pricipals in the form of 'Development Guidlines' readily accesible on you team wiki. 
+
+Being especially lazy and willing to reap the benefits of others' work I usually defer to an 'External Authority' on most guildeline policies. 
+
+There are well established norms in most fields that are published and accepted by the industry. The important thing here is to decide on an authority up front and consistently refer to that authority to quickly resolve any opinion based arguments. 
+
+## Documented External Authority Strategy
+
+ - Create a 'Developers' Guideline' document on the team wiki
+   - List the areas of concern
+     - Coding Style
+     - Naming Conventions
+     - Commit Comments
+ - In each section document the the exteral authority to be used with a web link. 
+ - Typical authorities are: 
+   - [Code Conventions for the JavaScript Programming Language](https://www.crockford.com/javascript/code.html)
+   - [Code Conventions for the Java Programming Language](https://www.oracle.com/technetwork/java/javase/documentation/codeconventions-139411.html)
+   - [NIEM](National Information Exchange Model](https://www.niem.gov/)
+   - [Use Smart Commits (Jira)](https://confluence.atlassian.com/bitbucket/use-smart-commits-298979931.html)
+ - Document any exceptions or speacial guidelines for your team
+ 
