@@ -3,11 +3,11 @@
 
 Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like myself) on the internet. You might ask "How do I filter all of that noise down to something that we can use make the correct decision or at least avoid making the wrong decision?".
 
-Well, I am here to tell you that in most cases the only truly wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
+Well, I am here to tell you that in most cases the only truly wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation. Sorry to take the wind out of the long winded debates that rage on the internet like the Crusades. 
 
-A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common and not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility and the decision is probably not going to impact the project significantly. 
+A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common and not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility and the choice is probably not going to impact the project delivery  significantly. 
 
-Long drawn-out arguments over which is the right one to use will, however, impact overall productivity much more than any productivity gain or loss associated with a particular choice.
+Long drawn-out arguments over which is the right one to use will, however, impact overall productivity and team cohesion much more than any productivity gain or loss associated with a particular choice.
 
 I have seen teams locked in IDE wars to the point of total breakdown where management was forced to let a member go because of fiercely held personal preferences. 
 
