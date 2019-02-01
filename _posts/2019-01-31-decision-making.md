@@ -1,9 +1,9 @@
 # Decisions, Decisions
 ## The Art of Decision Making in Software Architectural Design
 
-Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts on the internet (like me). You might ask "How do I filter all of that noise down so that I can make the correct decision or at least avoid the wrong decision?".
+Decision making is tough sometimes. You have lots of opinions from many sources including team members and self proclaimed experts (like me) on the internet. You might ask "How do I filter all of that noise down to something that I can use make the correct decision or at least avoid making the wrong decision?".
 
-Well I am here to tell you that the only really wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
+Well I am here to tell you that the only truly wrong decision is no decision. Often you are choosing between several 'correct' options where one may be a little more correct than the others depending on your situation.
 
 A classic example is the choice of IDE that your team will use. It is important that the tool set used by the team members is consistent so that wiki instructions for set up and use are common and not duplicated for each individual's environment. That being said the top 2 or 3 IDE's are pretty well equivelent in features and utility and the decision is probably not going to impact the project significantly. 
 
@@ -18,7 +18,7 @@ You could just dictate the choice of IDE and move on, leaving a part of the team
 Presented here are four strategies that you can use in diferent scenarios for making decisions as a team and a team leader. 
 
 ### Team Vote Strategy
-In cases of personal preference like outlined above a team vote is often the best way to resolve an issue. Here are the steps: 
+In cases of personal preferences like one outlined above a team vote is often the best way to resolve an issue. Here are the steps to quickly arrive at a team decision: 
 
 - Call a brief (<1hr) meeting to: 'Make a team decision on xyz'
   - Ask team members to prepare their arguments ahead of time in written form on your 'Decisions' Wiki page (you have one don't you?)
